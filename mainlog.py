@@ -1,2 +1,10 @@
 from tkinter import*
-print()
+
+
+
+
+
+
+
+
+#here<--
